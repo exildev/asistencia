@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>login.qml</file>
+        <file>media/huella.png</file>
+        <file>media/logo.png</file>
+        <file>media/roboto.ttf</file>
+        <file>media/Roboto-Light.ttf</file>
+        <file>media/guardar.png</file>
+        <file>media/huella.jpg</file>
+        <file>media/lupa.png</file>
+        <file>media/reintentar.png</file>
+        <file>media/icono.png</file>
+    </qresource>
+</RCC>
